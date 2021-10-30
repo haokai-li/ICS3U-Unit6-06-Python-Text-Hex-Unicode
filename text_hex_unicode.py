@@ -128,7 +128,7 @@ def main():
         print("{0} in hex is {1}".format(user_string, unicode_name))
     else:
         print("")
-        print("That sting is not in hex.")
+        print("That string is not in hex unicode dictionary.")
 
 
 if __name__ == "__main__":
